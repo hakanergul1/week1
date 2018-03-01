@@ -5,8 +5,8 @@ for x in range(3):
         s=0
         print("Toplama Islemi(+)")
         print("Cikarma Islemi(-)")
-        print("Bolme   Islemi(/)")
-        print("Carpma  Islemi(*)")
+        print("Bolme   Islemi(*)")
+        print("Carpma  Islemi(/)")
         islem=input("islem : ")
         if islem == "+" :
             s=sayi1+sayi2
